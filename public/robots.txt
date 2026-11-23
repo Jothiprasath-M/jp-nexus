@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://jothiprasath-m.github.io/jp-nexus/sitemap.xml
